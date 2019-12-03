@@ -1,0 +1,8 @@
+{
+	"domain": "nswairquality",
+	"name": "NSW Air Quality",
+	"documentation": "https://github.com/troykelly/ha-nswairquality",
+	"dependencies": [],
+	"codeowners": ["@troykelly"],
+	"requirements": ["nswairquality==0.0.2"]
+}
